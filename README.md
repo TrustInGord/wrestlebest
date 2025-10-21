@@ -13,7 +13,8 @@ Alignment: Good, Bad, Tweener
 * Aerial (1-10)
 * Fatigue (1-10)
 * Fav Match type (1-10)
-* Nation (1-10)
+* Home City Bonus
 * Accessory Bonus
 * Manager Bonus 
 
+![WrestleBestSketch.png](WrestleBestSketch.png)
