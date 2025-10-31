@@ -59,6 +59,12 @@ Alignment: Good, Bad, Tweener
 -   Javascript
 - Tech 3 - version 3.0
 
+## Frameworks/Libraries
+- JavaScript
+- Node.js
+- HTML
+- CSS
+
 ## Features
 
 List the ready features here:
