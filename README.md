@@ -65,6 +65,9 @@ Alignment: Good, Bad, Tweener
 - HTML
 - CSS
 
+## How To Run
+- HTML webpage
+
 ## Features
 
 List the ready features here:
