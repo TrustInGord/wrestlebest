@@ -73,6 +73,19 @@ Alignment: Good, Bad, Tweener
 List the ready features here:
 
 - Awesome feature 1
+- Wrestler Constructor
+- class proWrestler {
+	constructor(name, strength, stamina, agility, charisma, grapple, aerial, fatigue) {
+		this.name = name;
+		this.strength = strength;
+		this.stamina = stamina;
+		this.agility = agility;
+		this.charisma = charisma; 
+		this.grapple = grapple;
+		this.aerial = aerial;
+		this.fatigue = fatigue;
+	} 
+}
 - Awesome feature 2
 - Awesome feature 3
 
