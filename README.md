@@ -64,6 +64,9 @@ Alignment: Good, Bad, Tweener
 - Node.js
 - HTML
 - CSS
+- Vite
+- Tailwindcss
+- Database pending
 
 ## How To Run
 - HTML webpage
@@ -111,7 +114,7 @@ Provide various use cases and code examples here.
 
 ## Project Status
 
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_
 
 ## Room for Improvement
 
@@ -119,25 +122,25 @@ Include areas you believe need improvement / could be improved. Also add TODOs f
 
 Room for improvement:
 
-- Improvement to be done 1
-- Improvement to be done 2
+- Impliment hometown bonus for matches (add and hometown to character?)
+- Have fatigue be a negative to the match
 
 To do:
 
-- Feature to be added 1
-- Feature to be added 2
+- Add option to spend score for itmes
+- Multiple User support?
+- Timed game (Everyone guesses before timer)
 
 ## Acknowledgements
 
 Give credit here.
 
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by... Blazeball
 - Many thanks to...
 
 ## Contact
 
-Created by [@sample](https://www.mysite.com) - feel free to contact me!
+Created by [@sample](https://www.theGord.com) - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
