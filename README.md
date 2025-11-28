@@ -89,8 +89,9 @@ List the ready features here:
 		this.fatigue = fatigue;
 	} 
 }
-- Awesome feature 2
-- Awesome feature 3
+- Match Constructor
+- Card builder (gives two people off)
+- Score keeper (Used for spending)
 
 ## Screenshots
 
@@ -134,6 +135,7 @@ To do:
 - Add option to spend score for itmes
 - Multiple User support?
 - Timed game (Everyone guesses before timer)
+- Maybe give wrestlers a type of wrestling style they perform as, but which gives them advantages and weakneses against other types.
 
   Just liked this wrestler code
   <img width="1279" height="1201" alt="image" src="https://github.com/user-attachments/assets/778cd319-2345-41e1-89ae-d887d1e5cc66" />
