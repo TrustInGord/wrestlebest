@@ -1,0 +1,81 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.match-card {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  flex: 1 1 300px;
+}
+
+.picks-section {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.pick-row {
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pick-left {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  justify-content: flex-end;
+}
+
+.pick-right {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  justify-content: flex-start;
+}
+
+.wrestler-name {
+  margin: 0 10px;
+}
+
+.pick-button {
+  background-color: white;
+  padding: 5px 10px;
+}
+
+.pick-button.selected {
+  background-color: green;
+}
+
+.match-title {
+  margin: 0 20px;
+  min-width: 120px;
+  text-align: center;
+}
+
+.confirm-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.results-section {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.progress-text {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.not-competing {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: green;
+}
