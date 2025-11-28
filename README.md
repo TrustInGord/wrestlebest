@@ -96,6 +96,10 @@ List the ready features here:
 
 ![Mobile](WrestleBestSketchPhone.png)
 ![WrestleBestSketch.png](WrestleBestSketch.png)
+<img width="496" height="846" alt="image" src="https://github.com/user-attachments/assets/32fb5409-c806-44b1-927a-8665a4056af0" />
+
+
+<img width="1229" height="1710" alt="image" src="https://github.com/user-attachments/assets/1eddccf8-22fe-4c32-8701-afc00587c1d0" />
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
@@ -130,6 +134,10 @@ To do:
 - Add option to spend score for itmes
 - Multiple User support?
 - Timed game (Everyone guesses before timer)
+
+  Just liked this wrestler code
+  <img width="1279" height="1201" alt="image" src="https://github.com/user-attachments/assets/778cd319-2345-41e1-89ae-d887d1e5cc66" />
+
 
 ## Acknowledgements
 
