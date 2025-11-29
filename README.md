@@ -23,7 +23,7 @@ WrestleBest is a game where you vote for simulated wrestlers on who will win and
 
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
-  Bordem. A game for people
+  An game for those who like wrestling, and want to connect around the game of wrestling. A few years ago I broke my leg when I was trying to become a professional wrestler. I broke it during a wrestling try out. I may never be a wrestler, but I can hopefully bring some enjoyment to those that do. This time with playing with the aspects of it like the Wrestling General Manager.
 - What is the purpose of your project?
   To learn mechanics like
   - user profiles
@@ -32,7 +32,7 @@ WrestleBest is a game where you vote for simulated wrestlers on who will win and
   - game design
   - database web interactions
 - Why did you undertake it?
-  This was in scope with some skills I wanted to learn about. 
+  I was inspired by BlazeBall, a fake baseball game where people could vote on things. I liked the idea of a bunch of people playing games and voting on different rules to change the game. Getting people connected is rewarding in itself.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 Players have traits like
@@ -108,6 +108,8 @@ List the ready features here:
 
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
+- All files should be in the folder
+
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 ## Usage
@@ -116,6 +118,9 @@ How does one go about using it?
 Provide various use cases and code examples here.
 
 `write-your-code-here`
+Start your main app
+It then pulls from the Wrestlers list and constructs 20 wrestlers
+Card pulls 18 of the wrestlers for a match
 
 ## Project Status
 
@@ -146,6 +151,7 @@ To do:
 Give credit here.
 
 - This project was inspired by... Blazeball
+- Mystery Wrestling - Evil Uno
 - Many thanks to...
 
 ## Contact
