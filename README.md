@@ -158,6 +158,9 @@ Give credit here.
 
 Created by [@sample](https://www.theGord.com) - feel free to contact me!
 
+##Update
+Data base has been interesting. Had it installed. May have been on wrong port. Uninstall and reinstalled.
+
 <!-- Optional -->
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
