@@ -5,6 +5,7 @@ function getTotalStats(wrestler) {
          wrestler.charisma + wrestler.grapple + wrestler.aerial - wrestler.fatigue;
 }
 
+// Total the stats and determine winner via random weighted by stats, have multiple matches.
 function simulateMatch(wrestler1, wrestler2) {
   const total1 = getTotalStats(wrestler1);
   const total2 = getTotalStats(wrestler2);
